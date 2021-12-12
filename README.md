@@ -24,4 +24,4 @@
 
 ## 2^x = n => x = logn
 
-## Her ayırma ve birleştirme işlemde O(n) geldiği için => O(n logn)
+## Her ayırma ve birleştirme işlemde O(n) geldiği için => Big-O : O(n logn)
